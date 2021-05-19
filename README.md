@@ -6,7 +6,7 @@ let the missing component name display on the properties<br/>
 for the folowing to find a job, ID/programer/lead-product is ok, expectedly need one, cause the banker and the lawer watch me tiny house a long time.<br/>
 <br/>
 对于Coding，C、C++，C#，PYTHON，LUA，OBJECT PASCAL，JAVA，JAVASCRIPT，TYPESCRIPT，Objective-C，Objective-C++，SQL DDL/DML，MK SCRIPT，HTML/XML/CSS，REGEX，ASM/MASM，CASL，SWIFT，PERL，GO，ACTION SCRIPT，SHADER，PHP，WIN的BAT，CMAKE SCRIPT……都或多或少的写过；<br/>
-对于IDE，XCODE，VS，DELPHI，VSCODE，CODEIDE，WEBSTORM……；<br/>
+对于IDE，XCODE，VS，DELPHI，VSCODE，CODEIDE，WEBSTORM……很多都说不起来了；<br/>
 对于Engine，2DX，OGRE3D，SDL，UNITY，Creator，Unreal，GOTDOT，BULLT3d，Box2d……；<br/>
 UNITY的3.x，4.x，5.x，2017，2018，2019，2020，现在2021了；<br/>
 Unreal还好，闭源时接触过UE2，有个项目，桃花岛啥的，开源时看过UE4，UE5只看过介绍；<br/>
@@ -22,5 +22,5 @@ Creator，1.5.2/1.9.3/2.4.3/2.4.5/3D 1.0/3D 1.2/3.0/3.0.1<br/>
 <br/>
 只有愿意不愿意，不需要争论，一争论就无果，政见，各种见，不可能有好果子的……毕竟节省开销就是这些人的伎俩……他们不介意文明或黑暗……只在乎自己……也许像善良的The good samaritan law，也许该有一份善良的工资啥的……
 <br/>
-这是个乱世，这是个版本征战的天下，春秋战国式的IT世界
+这是个乱世，这是个系统，引擎，编辑器，IDE，语言，脚本，几遍同门也有版本征战的天下，春秋战国式的IT世界，最后说到底就是团战的天下人站的天下……
 <br/>
