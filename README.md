@@ -5,7 +5,7 @@ let the missing component name display on the properties<br/>
 <br/>
 for the folowing to find a job, ID/programer/lead-product is ok, expectedly need one, cause the banker and the lawer watch me tiny house a long time.<br/>
 <br/>
-对于Coding，C、C++，C#，PYTHON，LUA，OBJECT PASCAL，JAVA，JAVASCRIPT，TYPESCRIPT，OBJECT-C，OBJECT-C++，SQL DDL/DML，MK SCRIPT，HTML/XML/CSS，REGEX，ASM/MASM，CASL，SWIFT，PERL，GO，ACTION SCRIPT，SHADER，PHP，WIN的BAT，CMAKE SCRIPT……都或多或少的写过；<br/>
+对于Coding，C、C++，C#，PYTHON，LUA，OBJECT PASCAL，JAVA，JAVASCRIPT，TYPESCRIPT，Objective-C，Objective-C++，SQL DDL/DML，MK SCRIPT，HTML/XML/CSS，REGEX，ASM/MASM，CASL，SWIFT，PERL，GO，ACTION SCRIPT，SHADER，PHP，WIN的BAT，CMAKE SCRIPT……都或多或少的写过；<br/>
 对于IDE，XCODE，VS，DELPHI，VSCODE，CODEIDE，WEBSTORM……；<br/>
 对于Engine，2DX，OGRE3D，SDL，UNITY，Creator，Unreal，GOTDOT，BULLT3d，Box2d……；<br/>
 UNITY的3.x，4.x，5.x，2017，2018，2019，2020，现在2021了；<br/>
