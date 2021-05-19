@@ -25,4 +25,4 @@ Creator，1.5.2/1.9.3/2.4.3/2.4.5/3D 1.0/3D 1.2/3.0/3.0.1<br/>
 这是个乱世，这是个系统，引擎，编辑器，IDE，语言，脚本，几遍同门也有版本征战的天下，春秋战国式的IT世界，最后说到底就是团战的天下人站的天下……
 <br/>
 
-<div class="left">一颗心的自排队<br/><img src="sickheart1.png" width="512" height="212" /></div>
+<div class="left">一颗心的自排队，生病了<br/><img src="sickheart1.png" width="512" height="212" /></div>
